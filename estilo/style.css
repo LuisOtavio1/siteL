@@ -25,6 +25,8 @@
 }
 body {background-color: var(--cor0);}
 main {
+    background-color: white;
+    padding: 10px;
     min-width: 300px;
     max-width: 1000px;
     margin: auto;
@@ -83,11 +85,7 @@ nav > a:hover {
     color: var(--cor4);
     
 }
-main {
-    background-color: white;
-    padding: 10px;
 
-}
 main strong {
     color: var(--cor4);
     font-weight: bold;
