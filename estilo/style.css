@@ -117,15 +117,27 @@ main p {
     text-align: justify; 
     margin: 15px 0px;
 }
-div.quadrado {
+div#quadrado1 {
     display: inline-block;
     border: 2px solid black;
     border-radius: 8px;
     background-color: lightcyan;
     height: 640px;
     width: 360px;
-    margin-left: 90px;
+    margin-right: 240px;
     margin-bottom: 10px;
+    
+}
+div#quadrado2 {
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: lightcyan;
+    height: 640px;
+    width: 360px;
+    margin-left: 0px;
+    margin-bottom: 10px;
+
 }
 div.video {
     background-color: var(--cor5);
