@@ -124,7 +124,6 @@ div#quadrado1 {
     background-color: lightcyan;
     height: 640px;
     width: 360px;
-    margin-right: 240px;
     margin-bottom: 10px;
     
 }
@@ -137,8 +136,13 @@ div#quadrado2 {
     width: 360px;
     margin-left: 0px;
     margin-bottom: 10px;
-
+    
 }
+div#cent {
+    text-align: center;
+    margin: auto;
+}
+
 div.video {
     background-color: var(--cor5);
     margin: 0px -10px 30px -10px;
